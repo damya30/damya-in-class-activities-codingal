@@ -19,7 +19,7 @@ if choice == 1:
     bike_type = int(input("enter 1 or 2:"))
     print()
 
-    if bike_type == 1
+    if bike_type == 1:
         print("you picked scooty")
         print("top speed : 80kmh")
         print("best for : city roads")
